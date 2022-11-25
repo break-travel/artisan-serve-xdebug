@@ -1,6 +1,7 @@
 {
   "name": "break-travel/artisan-serve-xdebug",
   "description": "Extends the Laravel Artisan Serve command to utilize XDebug.",
+  "version": "1.0",
   "type": "library",
   "license": "Unlicense",
   "authors": [
